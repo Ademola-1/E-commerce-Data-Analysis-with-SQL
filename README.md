@@ -72,6 +72,7 @@ This project demonstrates end-to-end data analysis capabilities using SQL to sol
 
 **Impact:** 25% increase in customer retention through targeted campaigns
 
+[View Full Analysis →](./5-user-behavior-analysis/)
 ---
 
 ## Technical Setup
