@@ -178,7 +178,7 @@ Experience analyzing customer behavior, product performance, and revenue optimiz
 
 **Core Skills:** SQL, Python, Power BI, Google Analytics, Statistical Analysis
 
-[Email](mailto:your-email@example.com) | [LinkedIn](https://linkedin.com/in/yourprofile) | [Portfolio](https://mubaraklawal.com)
+[Email](mailto:lawalademola71@gmail.com) | [LinkedIn](https://linkedin.com/in/mubarak-lawal) | [Portfolio](https://mubaraklawal.com)
 
 ---
 
