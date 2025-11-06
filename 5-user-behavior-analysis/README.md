@@ -42,11 +42,11 @@ For every 100 customers Olist acquires, 97 never return. This is unsustainable -
 
 | Segment | Customers | % of Base | Total Revenue | % of Revenue | Status |
 |---------|-----------|-----------|---------------|--------------|--------|
-| **At Risk** | 21,912 | 23.47% | **₹5,306,733** | **34.41%** | 🚨 Critical |
-| Loyal Customers | 19,397 | 20.78% | ₹4,452,529 | 28.87% | ✅ Protect |
-| Champions | 14,419 | 15.45% | ₹3,563,448 | 23.11% | ⭐ Nurture |
-| Hibernating | 15,259 | 16.34% | ₹847,719 | 5.50% | 💤 Reactivate |
-| Promising | 14,383 | 15.41% | ₹795,016 | 5.15% | 🌱 Develop |
+| **At Risk** | 21,912 | 23.47% | **₹5,306,733** | **34.41%** | 🔴 Critical |
+| Loyal Customers | 19,397 | 20.78% | ₹4,452,529 | 28.87% | 🟢 Protect |
+| Champions | 14,419 | 15.45% | ₹3,563,448 | 23.11% | 🟡 Nurture |
+| Hibernating | 15,259 | 16.34% | ₹847,719 | 5.50% | 🟠 Reactivate |
+| Promising | 14,383 | 15.41% | ₹795,016 | 5.15% | 🔵 Develop |
 
 **The Crisis:** 
 The "At Risk" segment represents **₹5.3M in annual revenue** (34% of total) from customers who previously spent well but haven't ordered recently. Without intervention, this revenue disappears.
