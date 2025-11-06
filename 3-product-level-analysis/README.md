@@ -120,7 +120,7 @@ Each query includes detailed comments explaining the business logic and analytic
 
 **Mubarak Lawal** - Data Analyst specializing in business analytics and data-driven decision making
 
-2+ years of experience analyzing customer behavior, product performance, and revenue optimization. While this portfolio uses e-commerce data, the analytical frameworks apply to any business with customers and transactions.
+Experience analyzing customer behavior, product performance, and revenue optimization. While this portfolio uses e-commerce data, the analytical frameworks apply to any business with customers and transactions.
 
 **Core Skills:** SQL, Python, Power BI, Google Analytics, Statistical Analysis
 
