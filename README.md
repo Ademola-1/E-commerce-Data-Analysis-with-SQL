@@ -242,7 +242,7 @@ Experience analyzing customer behavior, product performance, and revenue optimiz
 
 **Certifications:** Certified Data Analyst (DataCamp), 3MTT Data Analysis and Visualization
 
-[Email](mailto:your-email@example.com) | [LinkedIn](https://linkedin.com/in/yourprofile) | [Portfolio](https://mubaraklawal.com)
+[Email](mailto:lawalademola71@gmail.com) | [LinkedIn](https://linkedin.com/in/mubarak-lawal) | [Portfolio](https://mubaraklawal.com)
 
 Looking for a data analyst who can drive business growth through insights? Let's connect.
 
