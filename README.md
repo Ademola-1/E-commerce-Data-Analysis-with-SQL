@@ -23,7 +23,7 @@ This project demonstrates end-to-end data analysis capabilities using SQL to sol
 
 **Impact:** ₹2M-₹2.5M incremental revenue through geographic diversification + 30% reduction in concentration risk
 
-[📊 View Full Analysis →](./1-geographic-market-performance/)
+[ View Full Analysis →](./1-geographic-market-performance/)
 
 ---
 
@@ -39,7 +39,7 @@ This project demonstrates end-to-end data analysis capabilities using SQL to sol
 
 **Impact:** ₹150K-₹220K recoverable revenue through cancellation reduction and operational optimization
 
-[📊 View Full Analysis →](./2-order-funnel-delivery-performance/)
+[ View Full Analysis →](./2-order-funnel-delivery-performance/)
 
 ---
 
@@ -54,7 +54,7 @@ This project demonstrates end-to-end data analysis capabilities using SQL to sol
 
 **Impact:** 12-15% revenue increase through cross-sell optimization and inventory reallocation
 
-[📊 View Full Analysis →](./3-product-level-analysis/)
+[ View Full Analysis →](./3-product-level-analysis/)
 
 ---
 
@@ -69,7 +69,7 @@ This project demonstrates end-to-end data analysis capabilities using SQL to sol
 
 **Impact:** ₹3M-₹4.5M additional revenue by optimizing installment adoption and payment method mix
 
-[📊 View Full Analysis →](./4-payment-installment-analysis/)
+[ View Full Analysis →](./4-payment-installment-analysis/)
 
 ---
 
@@ -84,7 +84,7 @@ This project demonstrates end-to-end data analysis capabilities using SQL to sol
 
 **Impact:** ₹2.9M-₹3.3M additional annual revenue through targeted retention initiatives
 
-[📊 View Full Analysis →](./5-user-behavior-analysis/)
+[ View Full Analysis →](./5-user-behavior-analysis/)
 
 ---
 
