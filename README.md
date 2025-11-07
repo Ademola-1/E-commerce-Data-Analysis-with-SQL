@@ -240,7 +240,7 @@ Experience analyzing customer behavior, product performance, and revenue optimiz
 
 **Core Skills:** SQL, Python, Power BI, Google Analytics, Statistical Analysis
 
-**Certifications:** 3MTT Data Analysis, ALX Software Engineering
+**Certifications:** Certified Data Analyst (DataCamp), 3MTT Data Analysis and Visualization
 
 [Email](mailto:your-email@example.com) | [LinkedIn](https://linkedin.com/in/yourprofile) | [Portfolio](https://mubaraklawal.com)
 
