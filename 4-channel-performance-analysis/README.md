@@ -28,9 +28,9 @@ Understanding payment preferences helps Olist optimize checkout, increase conver
 
 **Key Insights:**
 - 🔴 **Credit cards = 4.4x more revenue than all other methods combined**
-- ✅ **97%+ success rates** across all payment types - payment processing works well
-- 💰 **Credit cards have highest AOV** (₹163 vs ₹145 boleto, ₹142 debit)
-- 📊 **Installments matter** - credit cards average 3.5 installments per order
+-    **97%+ success rates** across all payment types - payment processing works well
+-    **Credit cards have highest AOV** (₹163 vs ₹145 boleto, ₹142 debit)
+-    **Installments matter** - credit cards average 3.5 installments per order
 
 **Why Credit Cards Win:**
 - Flexibility through installments
